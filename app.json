@@ -1,0 +1,12 @@
+{
+  "name": "testing-double-field",
+  "displayName": "testing-double-field",
+  "expo": {
+    "name": "testing-double-field",
+    "slug": "testing-double-field",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
